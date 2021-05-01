@@ -1,0 +1,18 @@
+body{
+background-image: url('https://c4.wallpaperflare.com/wallpaper/191/1014/371/dragon-ball-z-super-saiyan-minimalism-blue-background-wallpaper-preview.jpg');
+background-repeat: no-repeat;
+background-size: 100%;
+}
+
+
+
+#tex{
+    color: white;
+    text-align: center;
+}
+
+div{
+    position: relative;
+    text-align: center;
+    margin-top: 25px;
+}

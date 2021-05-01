@@ -1,0 +1,35 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+   
+    min-height: 400px;
+    background-image: url('https://images.greelane.com/proxy?url=https%3A%2F%2Fwww.thoughtco.com%2Fthmb%2FWeLyzxmkVum0OMydS7soNHhQYUM%3D%2F4288x2848%2Ffilters%3Afill%28auto%2C1%29%2Fclose-up-garden-thermometer-hanging-on-tree-939085976-5c4397acc9e77c0001c4cd3b.jpg&width=750');
+    background-color: rgb(236, 220, 220);
+    background-position: center ;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    
+  }
+  
+  .page-title {
+    color: #3E98F8;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #3E98F8;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
